@@ -38,21 +38,14 @@ O programa gera um CPF de 11 dígitos válido.
 
 ## 💡 Exemplo de uso
 
-Após executar o programa, o usuário visualiza o menu principal com as opções de conversão:
+Ao rodar o programa, a saída no console seguirá este modelo:
 
-![Menu principal do conversor de unidades](assets/menu-principal.png)
+CPF limpo: 69841214008
 
-Selecionando a opção **1**, o usuário acessa a conversão de unidades de comprimento e informa a unidade desejada:
+CPF formal: 698.412.140-08
 
-![Escolha da unidade de comprimento](assets/escolha-unidade.png)
+![CPF gerado](assets/CPF-Gerado.png)
 
-Em seguida, o usuário informa o valor a ser convertido:
-
-![Entrada do valor a ser convertido](assets/entrada-valor.png)
-
-O programa exibe o resultado da conversão e retorna ao menu principal:
-
-![Resultado da conversão](assets/resultado-conversao.png)
 ## 🚀 Status do Projeto
 
 ✅ Concluído
