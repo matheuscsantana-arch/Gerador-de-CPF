@@ -10,11 +10,11 @@ Este é um projeto desenvolvido em Python com o objetivo de gerar números de CP
 ## ⚙️ Instalação
 
 - Certifique-se de ter o Python instalado (versão 3.10 ou superior).
-- Baixe o arquivo Gerador_CPF.py.
+- Baixe o arquivo gerador_cpf.py.
 - Abra o terminal na pasta do arquivo e execute:
 
 ```bash
-python Gerador_CPF.py
+python gerador_cpf.py
 ```
 
 ## 🛠️ Funcionalidades
